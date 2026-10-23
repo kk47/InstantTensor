@@ -1,0 +1,14 @@
+tests/test_fgds.py
+  h_5cc3f7dce50a91 1-18,20-56,58-119,121-142,144-190,192-194,197-218
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "55b0e2bf4f06d3bb40a2de8350f8c1565439c648",
+  "prompts": {},
+  "humans": {
+    "h_5cc3f7dce50a91": {
+      "author": "Kai Kuang <kuangkai@kylinos.cn>"
+    }
+  }
+}
